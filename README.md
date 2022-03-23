@@ -2,7 +2,7 @@
 - I am [Maurice Nzioki](github.com/maurice2428)
 - ⚡ I'm a student at [JOOUST](https://www.jooust.ac.ke) taking Bsc. Computer Security and Forensics
 ### **Skills and Expertise**
-- **Languages:** PHP, Js, CSS, PYTHON
+- **Languages:** PHP, JS,SQL, CSS, PYTHON
 -  **Frameworks & Other:** Git, Apache, Bootstrap, Wordpress
  
 - 🌱 I’m currently learning **Python in Data Analysis**
