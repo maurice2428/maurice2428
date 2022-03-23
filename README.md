@@ -8,6 +8,5 @@
 - 🌱 I’m currently learning **Python in Data Analysis, **
 - 💬 Ask me about Web development and python Programming
 
-- **📫 How to reach me**
--  WhatsApp Or Call Me Thro' **+254743487186/+254782687213**
+- **📫 How to reach me**:  WhatsApp Or Call Me Thro' **+254743487186/+254782687213**
 
