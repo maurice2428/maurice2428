@@ -71,4 +71,4 @@
 
 ## ⚡ Mindset
 
-> I don’t just write code — I build systems that solve real problems.
+I don’t just write code — I build systems that solve real problems.
