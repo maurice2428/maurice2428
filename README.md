@@ -1,74 +1,72 @@
-<h1 align="center">Hi 👋, I'm Maurice Nzioki</h1>
+<h1 align="center">~/maurice_nzioki 🚀</h1>
 
 <p align="center">
-  💻 Full Stack Developer | 🛡️ Cybersecurity Enthusiast | 🌿 Systems Builder
+  <b>Full Stack Developer • Linux User • Laravel Builder • Security-Minded Engineer</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/maurice2428">
-    <img src="https://img.shields.io/github/followers/maurice2428?label=Follow&style=social">
-  </a>
-  <img src="https://img.shields.io/badge/Focus-ERP%20Systems-success">
-  <img src="https://img.shields.io/badge/Linux-User-informational">
-  <img src="https://img.shields.io/badge/Backend-PHP-blue">
+  <img src="https://img.shields.io/badge/Linux-Parrot%20OS-informational">
+  <img src="https://img.shields.io/badge/Backend-Laravel-red">
+  <img src="https://img.shields.io/badge/Database-MySQL-blue">
+  <img src="https://img.shields.io/badge/Focus-ERP%20%26%20Business%20Systems-success">
 </p>
 
-## 👨‍💻 About Me
+```bash
+maurice@linux:~$ whoami
 
-- 🎓 BSc. Computer Security & Forensics @ <a href="https://www.jooust.ac.ke">JOOUST</a>  
-- 🛠️ I build **real-world systems** (ERP, dashboards, automation tools)  
-- ⚡ Strong focus on **Laravel, system architecture & backend engineering**  
-- 🧠 Passionate about **security, scalability, and clean system design**  
-- 🐧 Comfortable working in **Linux environments**
+Maurice Nzioki
+BSc. Computer Security & Forensics
+Full Stack Developer
+Systems Builder
+Linux Enthusiast
+```
 
-## 🛠️ Tech Stack
+## ./about-me
 
-### Backend
-- PHP (Laravel & Vanilla PHP)
-- Python
-- MySQL / MariaDB
+I build **real-world web systems** designed to solve actual business problems.
 
-### Frontend
-- Tailwind CSS
-- JavaScript (Vanilla JS)
+My work revolves around:
 
-### Systems & Tools
-- Linux (Parrot OS / Server environments)
-- Apache2
-- Git & GitHub
-- WordPress & WooCommerce
+* Laravel & PHP
+* MySQL / MariaDB
+* Linux environments
+* ERP & business systems
+* APIs & backend architecture
+* Dashboards & automation
+* Security-focused development
 
-### Certifications & Learning
-- CompTIA+ (In Progress)
-- Python for Data Analysis
+## ./stack
 
-## 🚀 What I Do
+```text
+Backend      → Laravel • PHP • Python
+Database     → MySQL • MariaDB
+Frontend     → Tailwind CSS • JavaScript
+Systems      → Linux • Apache • Git
+Platforms    → WordPress • WooCommerce
+```
 
-- Build **ERP systems** (Farm, HR, Inventory)
-- Design **scalable backend architectures**
-- Develop **data-driven dashboards**
-- Create **secure and production-ready applications**
-- Implement **automation and reporting systems**
+## ./building
 
-## 📈 Current Focus
+```bash
+$ building ERP systems
+$ automating business workflows
+$ designing scalable databases
+$ deploying production web applications
+$ learning security by breaking assumptions
+```
 
-- Advanced Laravel & Filament systems  
-- Backend performance optimization  
-- Data analysis with Python  
-- Security-focused development practices  
+## ./currently-learning
 
-## 💬 Ask Me About
+* Advanced Laravel & Filament
+* Backend optimization
+* Python for Data Analysis
+* CompTIA+
+* Application security
 
-- Laravel & backend systems  
-- ERP system design  
-- Database structuring  
-- Linux & server environments  
-- PHP (Vanilla + Frameworks)  
+## ./connect
 
-## 📫 Connect With Me
+GitHub → https://github.com/maurice2428
 
-- GitHub: https://github.com/maurice2428  
-
-## ⚡ Mindset
-
-I don’t just write code — I build systems that solve real problems.
+```bash
+maurice@linux:~$ echo "I don't just write code. I build systems."
+```
