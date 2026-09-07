@@ -17,12 +17,14 @@
 └──╼ $ cat about.txt
 ```
 
-> 🎓 BSc. Computer Security & Forensics — JOOUST
-> 🏗️ Full-stack architect: I design and ship complete systems, not just features
-> 🤖 AI & automation — from LLM-powered tools to scripted infrastructure
-> 🖥️ Server admin — Linux boxes, Apache/Nginx stacks, deployments, hardening
-> 🐧 Shell-first — if it can be scripted, it gets scripted
-> 🛡️ Security mindset baked into everything I build, not bolted on after
+```
+[edu]      BSc. Computer Security & Forensics — JOOUST
+[build]    Full-stack architect — I design and ship complete systems, not just features
+[ai]       AI & automation — from LLM-powered tools to scripted infrastructure
+[sysadmin] Server admin — Linux boxes, Apache/Nginx stacks, deployments, hardening
+[shell]    Shell-first — if it can be scripted, it gets scripted
+[sec]      Security mindset baked into everything I build, not bolted on after
+```
 
 <br>
 
@@ -33,17 +35,18 @@
 
 <div align="center">
 
-**Backend & Frameworks**
+**Frameworks**
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39FF14)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14)
+![Filament](https://img.shields.io/badge/Filament-000000?style=for-the-badge&logo=laravel&logoColor=39FF14)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
 
-**AI / Automation**
+**Automation**
 ![OpenAI](https://img.shields.io/badge/AI%20Tooling-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
 ![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=39FF14)
 
-**Systems & Infra**
+**Systems**
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14)
 ![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=39FF14)
@@ -88,7 +91,10 @@
 
 </div>
 
-> 💡 If a card above shows blank, GitHub's stat services are occasionally slow to refresh or briefly rate-limited — reload the page and it'll load in.
+```
+# note: external stat widgets pull live from GitHub's API — first load can lag
+# if a card looks blank, refresh once and it renders in
+```
 
 <br>
 
