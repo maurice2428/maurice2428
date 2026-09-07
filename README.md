@@ -91,10 +91,7 @@
 
 </div>
 
-```
 
-
-<br>
 
 ```
 ┌─[maurice@linux]─[~]
