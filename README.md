@@ -2,82 +2,116 @@
 
 # `MAURICE NZIOKI`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2400&pause=700&color=00FF88&background=000000&center=true&vCenter=true&width=760&height=45&lines=maurice%40linux%3A~%24+whoami;Full+Stack+Developer+%7C+Laravel+%2B+PHP+%2B+MySQL;Linux+%7C+Security+%7C+Automation;Building+real-world+systems..." alt="Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=700&color=39FF14&background=000000&center=true&vCenter=true&width=800&height=50&lines=maurice%40linux%3A~%24+whoami;Full+Stack+Developer+%2B+Systems+Architect;Laravel+%7C+Python+%7C+AI+%7C+Server+Admin;root%40infra%3A~%23+building+what+others+can%27t..." alt="Terminal" />
 
-[![GitHub followers](https://img.shields.io/github/followers/maurice2428?label=Follow&style=for-the-badge&color=00FF88&labelColor=000000)](https://github.com/maurice2428)
-![Focus](https://img.shields.io/badge/FOCUS-ERP%20SYSTEMS-00FF88?style=for-the-badge&labelColor=000000)
-![Linux](https://img.shields.io/badge/OS-LINUX-00FF88?style=for-the-badge&labelColor=000000&logo=linux&logoColor=00FF88)
+[![GitHub followers](https://img.shields.io/github/followers/maurice2428?label=FOLLOW&style=for-the-badge&color=39FF14&labelColor=000000)](https://github.com/maurice2428)
+![Focus](https://img.shields.io/badge/FOCUS-ERP%20%2B%20AI%20SYSTEMS-39FF14?style=for-the-badge&labelColor=000000)
+![Linux](https://img.shields.io/badge/OS-LINUX-39FF14?style=for-the-badge&labelColor=000000&logo=linux&logoColor=39FF14)
 
 </div>
 
----
+<br>
 
-```bash
-maurice@linux:~$ cat about.txt
+```
+┌─[maurice@linux]─[~]
+└──╼ $ cat about.txt
 ```
 
 > 🎓 BSc. Computer Security & Forensics — JOOUST
-> 🛠️ I build real-world systems: ERP, dashboards, automation
-> ⚡ Laravel · backend architecture · clean system design
-> 🐧 Native to the terminal — Parrot OS / server environments daily
+> 🏗️ Full-stack architect: I design and ship complete systems, not just features
+> 🤖 AI & automation — from LLM-powered tools to scripted infrastructure
+> 🖥️ Server admin — Linux boxes, Apache/Nginx stacks, deployments, hardening
+> 🐧 Shell-first — if it can be scripted, it gets scripted
+> 🛡️ Security mindset baked into everything I build, not bolted on after
 
----
-
-### `./stack --list`
-
-<div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF88)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-### `./run --build`
+<br>
 
 ```
-> ERP systems (Farm, HR, Inventory)
-> Scalable backend architecture on Laravel & Filament
-> Data-driven dashboards & reporting pipelines
-> Secure, production-ready applications
-> Automation scripts that remove human error
+┌─[maurice@linux]─[~]
+└──╼ $ ./stack --list --all
 ```
 
----
-
-### `whoami --stats`
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=maurice2428&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maurice2428&theme=highcontrast&hide_border=true&background=000000&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" width="48%" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice2428&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF88&text_color=c9d1d9" width="45%" />
-</div>
-
----
-
-### `./connect`
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/maurice2428)
+**Backend & Frameworks**
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39FF14)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+
+**AI / Automation**
+![OpenAI](https://img.shields.io/badge/AI%20Tooling-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
+![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=39FF14)
+
+**Systems & Infra**
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
+![Bash](https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14)
+![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=39FF14)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=39FF14)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
 
 </div>
+
+<br>
+
+```
+┌─[maurice@linux]─[~]
+└──╼ $ ./run --build --production
+```
+
+```
+> ERP systems from the ground up — Farm, HR, Inventory
+> AI-assisted tools and automation pipelines
+> Scalable Laravel + Filament backend architecture
+> Servers provisioned, secured, and kept running — not just handed to hosting
+> Data-driven dashboards & reporting systems
+> Shell scripts that turn manual chaos into one command
+```
+
+<br>
+
+```
+┌─[maurice@linux]─[~]
+└──╼ $ whoami --stats
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=maurice2428&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=maurice2428&theme=github-dark-blue&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&sideNums=39FF14&dates=c9d1d9" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice2428&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="45%" />
+
+</div>
+
+> 💡 If a card above shows blank, GitHub's stat services are occasionally slow to refresh or briefly rate-limited — reload the page and it'll load in.
+
+<br>
+
+```
+┌─[maurice@linux]─[~]
+└──╼ $ ./connect --all
+```
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/maurice2428)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://linkedin.com/in/maurice-n-964448334)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=39FF14)](https://x.com/nziokicc)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://teknovaro.com/)
+
+</div>
+
+<br>
 
 <div align="center">
 
 ```
-$ echo "I don't just write code — I build systems that solve real problems."
+$ echo "I don't just write code — I architect, automate, and ship systems that work."
 ```
 
 </div>
