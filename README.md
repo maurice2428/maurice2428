@@ -84,17 +84,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=maurice2428&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=maurice2428&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=maurice2428&theme=github-dark-blue&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&sideNums=39FF14&dates=c9d1d9" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurice2428&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="45%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=maurice2428&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=c9d1d9" width="45%" />
 
 </div>
 
 ```
-# note: external stat widgets pull live from GitHub's API — first load can lag
-# if a card looks blank, refresh once and it renders in
-```
+
 
 <br>
 
