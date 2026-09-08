@@ -35,27 +35,28 @@
 
 <div align="center">
 
-**Frameworks**
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39FF14)
+`Frameworks`
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=39FF14)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=39FF14)
 ![Filament](https://img.shields.io/badge/Filament-000000?style=for-the-badge&logo=laravel&logoColor=39FF14)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
 
-**Automation**
-![OpenAI](https://img.shields.io/badge/AI%20Tooling-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
+`Automation`
 ![Automation](https://img.shields.io/badge/Automation-000000?style=for-the-badge&logo=zapier&logoColor=39FF14)
+![OpenAI](https://img.shields.io/badge/AI%20Tooling-000000?style=for-the-badge&logo=openai&logoColor=39FF14)
 
-**Systems**
+`Systems`
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 ![Bash](https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14)
 ![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=39FF14)
 ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=39FF14)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
 
-**Frontend**
+`Frontend`
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
+![ReactJS](https://img.shields.io/badge/ReactJS-000000?style=for-the-badge&logo=react&logoColor=39FF14)
 
 </div>
 
@@ -91,7 +92,7 @@
 
 </div>
 
-
+<br>
 
 ```
 ┌─[maurice@linux]─[~]
